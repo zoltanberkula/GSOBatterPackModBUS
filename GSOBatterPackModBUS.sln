@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GSOBatterPackModBUS", "GSOBatterPackModBUS\GSOBatterPackModBUS.pyproj", "{FF0A7B84-E858-4A3C-898F-C328CF228D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0A7B84-E858-4A3C-898F-C328CF228D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0A7B84-E858-4A3C-898F-C328CF228D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBAA8DA-1285-4ABE-8F64-C66A9740B023}
+	EndGlobalSection
+EndGlobal
